@@ -1,0 +1,7 @@
+﻿  IPAddr.cpp
+D:\study\week1\IPAddr\IPAddr.cpp(13,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\IPAddr\IPAddr.cpp(16,19): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\IPAddr\IPAddr.cpp(17,37): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\IPAddr\IPAddr.cpp(24,2): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\IPAddr\IPAddr.cpp(33,2): warning C4996: 'WSAAddressToStringA': Use WSAAddressToStringW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  IPAddr.vcxproj -> D:\study\week1\IPAddr\x64\Debug\IPAddr.exe

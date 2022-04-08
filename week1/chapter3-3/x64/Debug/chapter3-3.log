@@ -1,0 +1,4 @@
+﻿  03.cpp
+D:\study\week1\chapter3-3\03.cpp(29,9): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\chapter3-3\03.cpp(37,19): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  chapter3-3.vcxproj -> D:\study\week1\chapter3-3\x64\Debug\chapter3-3.exe

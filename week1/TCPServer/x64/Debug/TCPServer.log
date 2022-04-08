@@ -1,0 +1,5 @@
+﻿  TCPServer.cpp
+D:\study\week1\TCPServer\TCPServer.cpp(67,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\TCPServer\TCPServer.cpp(79,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\study\week1\TCPServer\TCPServer.cpp(90,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  TCPServer.vcxproj -> D:\study\week1\TCPServer\x64\Debug\TCPServer.exe
